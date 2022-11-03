@@ -47,7 +47,7 @@ header{
 	color: var(--bg-color);
 	font-size: var(--p-font);
 	font-weight: 500;
-	padding: 10px 22px;
+	padding: 15px 15px;
 	border-radius: 4px;
 	transition: ease .40s;
 }
@@ -369,7 +369,7 @@ header.sticky{
 	padding-top: 90px;
 }
 .end-text p{
-	color: var(--bg-color);
+	color: white;
 	font-size: 14px;
 	letter-spacing: 2px;
 }
@@ -456,4 +456,6 @@ header.sticky{
 		height: 85vh;
 		transition: .2s;
 	}
+
+
 }
